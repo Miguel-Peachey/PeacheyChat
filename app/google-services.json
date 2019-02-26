@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766538337942",
+    "firebase_url": "https://peachey-chat-e2689.firebaseio.com",
+    "project_id": "peachey-chat-e2689",
+    "storage_bucket": "peachey-chat-e2689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766538337942:android:51c5d12b7c3bec14",
+        "android_client_info": {
+          "package_name": "com.miguel.peacheychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766538337942-3o6vdoepaovp0aaeq002nq8aa81bgp1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguel.peacheychat",
+            "certificate_hash": "5ffab768aee0066385ef97325565791452f382ed"
+          }
+        },
+        {
+          "client_id": "766538337942-b338t2qepbidf0d4betb8k3mvpnevdli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FLbwXverpgoQrsJxl2iXTKPOlUagAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766538337942-b338t2qepbidf0d4betb8k3mvpnevdli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
